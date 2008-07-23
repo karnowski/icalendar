@@ -34,3 +34,6 @@ require 'icalendar/component/alarm'
 # Calendar parser
 require 'icalendar/parser'
 
+# RecurrenceRule handler
+require 'icalendar/recurrence'
+
